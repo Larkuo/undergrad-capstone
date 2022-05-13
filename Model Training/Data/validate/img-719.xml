@@ -1,0 +1,50 @@
+<annotation>
+	<folder>V4 - Renamed B</folder>
+	<filename>img-719.png</filename>
+	<path>C:\Users\Larkuo\Documents\School\Year 4 Redo\Capstone\Images\V4 - Renamed B\img-719.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>60</ymin>
+			<xmax>360</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>103</ymin>
+			<xmax>392</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>74</ymin>
+			<xmax>473</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>V4 - Renamed B</folder>
+	<filename>img-121.png</filename>
+	<path>C:\Users\Larkuo\Documents\School\Year 4 Redo\Capstone\Images\V4 - Renamed B\img-121.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>empty_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>111</ymin>
+			<xmax>377</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>empty_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>54</ymin>
+			<xmax>410</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>empty_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>96</ymin>
+			<xmax>615</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

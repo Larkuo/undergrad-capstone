@@ -1,0 +1,38 @@
+<annotation>
+	<folder>V4 - Renamed B</folder>
+	<filename>img-667.png</filename>
+	<path>C:\Users\Larkuo\Documents\School\Year 4 Redo\Capstone\Images\V4 - Renamed B\img-667.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potatoe_fries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>72</ymin>
+			<xmax>412</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ketchup_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>1</ymin>
+			<xmax>196</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

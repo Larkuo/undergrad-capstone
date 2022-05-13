@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V4 - Renamed B</folder>
+	<filename>img-236.png</filename>
+	<path>C:\Users\Larkuo\Documents\School\Year 4 Redo\Capstone\Images\V4 - Renamed B\img-236.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>empty_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>118</ymin>
+			<xmax>446</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

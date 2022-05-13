@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V4 - Renamed B</folder>
+	<filename>img-645.png</filename>
+	<path>C:\Users\Larkuo\Documents\School\Year 4 Redo\Capstone\Images\V4 - Renamed B\img-645.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potatoe_fries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>127</ymin>
+			<xmax>430</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>
