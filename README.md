@@ -5,7 +5,6 @@ ENG401 - Engineering Capstone Project Seminar 2021-2022
 > This is a repository containing all my capstone files organized in the following folders.
 
 ├── .
-
     ├── README.md
 
     ├── Design                  # All files relevant to the design part of my project 
@@ -31,5 +30,5 @@ ENG401 - Engineering Capstone Project Seminar 2021-2022
             ├── Scripts         # All python scripts used in the project
 
             ├── Media           # Prototype image & Demo video
-            
+
 
